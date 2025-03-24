@@ -5,7 +5,7 @@ body {
 }
 
 header {
-  background: #222; color: white;
+  background: #222; color: black;
   padding: 20px; text-align: center;
 }
 
@@ -15,7 +15,7 @@ nav a {
 
 #hero {
   background: url('images/hero.jpg') no-repeat center center/cover;
-  color: white; padding: 100px 20px; text-align: center;
+  color: black; padding: 100px 20px; text-align: center;
 }
 
 .cta {
